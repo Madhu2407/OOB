@@ -1,1 +1,3 @@
 # add node modules in git ignore
+.temp
+npm-debug.log
